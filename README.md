@@ -56,9 +56,9 @@ In statistics, we focus on four areas. (Summarized from the videos above.)
 3. outliers
 4. Statistical assumptions
 
-### Multiple Regression
+### One-way ANOVA
 
-Multiple regression is used to predict the value of a continuous variable from predictor variables. Not only does it assess the strength and direction of the relationships between the predictor variables and the outcome variable when controlling for the other variables in the model. Multiple linear regression belongs to a family of tests known as parametric tests and has similar distributional assumptions.
+One-way ANOVA is used to compare means for an outcome variable from two or more groups. (A one-way ANOVA using just two groups is equivalent to conducting a t-test for those two groups.) ANOVA is an omnibus test which assesses if a difference exists between at least two of the groups, but it does not show where the difference exists. Post-hoc analyses between different combinations of group pairings are usually conducted after a significant ANOVA to assess where the differences lie.
 
 ### Jamovi part
 
