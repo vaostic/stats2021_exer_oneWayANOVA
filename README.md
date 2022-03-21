@@ -1,5 +1,7 @@
 # One-way ANOVA Exercise
 
+A video demonstration for this assignment is available here: https://youtu.be/GIYdna5kde0
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
